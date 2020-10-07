@@ -1,14 +1,11 @@
-local y='usercontent'
-local w='.com/'
-local f='/LTNS'
-local z='MYANMAR/'
-local a=pcall
-local b=load
-local c=gg.makeRequest
-local d='Ltnsmynmar'
-local e='https://'
-local p='github'
-local r='raw.'
-local g='master'
-local j='/Free2'
-local o=".content))"
+if gg.BUILD == "14566" then else
+print(os.date("%H:%M:%S %p ⌚️ %A, %d %B %Y"))
+print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
+gg.alert('⚠ Usᴇ Lᴛɴs Gɢ Aᴘᴋ ⚠\n☛Contact to Lᴛɴs Tᴇᴀᴍ')
+return end
+if gg.PACKAGE == 'com.ltnsfree.com' then 
+pcall(load(gg.makeRequest("https://raw.githubusercontent.com/Ltnsmynmar/LTNSMYANMAR/master/Free2").content))
+else 
+print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
+gg.alert('⚠ Usᴇ Lᴛɴs Gɢ Aᴘᴋ ⚠\n☛Contact to Lᴛɴs Tᴇᴀᴍ')
+os.exit() end
