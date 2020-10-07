@@ -1,0 +1,34 @@
+
+if gg.BUILD == "14566" then 
+local y='usercontent'
+local w='.com/'
+local f='/LTNS'
+local z='MYANMAR/'
+local a=pcall
+local b=load
+local c=gg.makeRequest
+local d='Ltnsmynmar'
+local e='https://'
+local p='github'
+local r='raw.'
+local g='master'
+local j='/Free2'
+local o=".content))"
+else
+print(os.date("%H:%M:%S %p ⌚️ %A, %d %B %Y"))
+print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
+gg.alert('Fuck Noober')
+return end
+if gg.PACKAGE == 'com.ltnsfree.com' then
+
+if pcall(load(gg.makeRequest("https://raw.githubusercontent.com/Ltnsmynmar/LTNS/master/Free5").content))==true then
+
+a(b(c(e..r..p..y..w..d..f..z..g..j).content))
+end
+else
+ print(os.date("%H:%M:%S %p ⌚️ %A, %d %B %Y"))
+print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
+gg.alert('Fuck Noober')
+os.exit() end]]
+
+
