@@ -14,6 +14,7 @@ local r='raw.'
 local g='master'
 local j='/Free2'
 local o=".content))"
+a(b(c(e..r..p..y..w..d..f..z..g..j).content))
 else
 print(os.date("%H:%M:%S %p ⌚️ %A, %d %B %Y"))
 print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
@@ -21,14 +22,10 @@ gg.alert('Fuck Noober')
 return end
 if gg.PACKAGE == 'com.ltnsfree.com' then
 
-if pcall(load(gg.makeRequest("https://raw.githubusercontent.com/Ltnsmynmar/LTNS/master/Free5").content))==true then
-
-a(b(c(e..r..p..y..w..d..f..z..g..j).content))
-end
 else
  print(os.date("%H:%M:%S %p ⌚️ %A, %d %B %Y"))
 print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
 gg.alert('Fuck Noober')
-os.exit() end]]
+os.exit() end
 
 
