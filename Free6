@@ -16,12 +16,4 @@ local j='/Free2'
 local o=".content))"
 a(b(c(e..r..p..y..w..d..f..z..g..j).content))
 
-if gg.PACKAGE == 'com.ltnsfree.com' then
-
-else
- print(os.date("%H:%M:%S %p ⌚️ %A, %d %B %Y"))
-print("========== Eʀʀᴏʀ Gɢ Aᴘᴋ ==========")
-gg.alert('Fuck Noober')
-os.exit() end
-
 
